@@ -12,9 +12,9 @@ int main(void)
 	i = 0;
 
 	/*while (i < 10)*/
-	/*(*/
-	/*  putchar(a);*/
-	/*)*/
+	/*{*/
+	/*       putchar(a);*/
+	/*}*/
 
 	printf("infinte loop avoided \\o/\n");
 	return (0);
